@@ -1,0 +1,2 @@
+
+dbName = 'parser.db'
